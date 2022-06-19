@@ -6,18 +6,17 @@ Análisis de la data PISCO-SENAMHI
 Crear proyecto personal con **conda-forge**:
 <!-- UL -->
 * Paso 1: crear **conda-forge**
-* <!-- UL -->
-*conda config --add channels conda-forge
+    * conda config --add channels conda-forge
     
-* Paso 2: crear **IDE**<!-- UL -->
-    *conda create -n pyaos-lesson spyder (**IDE** preferido : spyder, jupyter notebook, etc)
-        *conda activate pyaos-lesson(entrar)
-        *conda deactivate pyaos-lesson(salir)
+* Paso 2: crear **IDE**
+    * conda create -n pyaos-lesson spyder (**IDE** preferido : spyder, jupyter notebook, etc)
+        * conda activate pyaos-lesson(entrar)
+        * conda deactivate pyaos-lesson(salir)
  
- * Paso 3: instalar **librerias**<!-- UL -->
-     *(entrar)....del paso 2
-     *(pyaos-lesson)c:/asus/..**conda install **"libreria"** o **pip install** **"libreria"** (ingresar librerias xarray, cartopy, etc)
-     *(pyaos-lesson)c:/asus/--spyder (abrir spyder)
+ * Paso 3: instalar **librerias**
+     * (entrar)....del paso 2
+     * (pyaos-lesson)c:/asus/..**conda install **"libreria"** o **pip install** **"libreria"** (ingresar librerias xarray, cartopy, etc)
+     * (pyaos-lesson)c:/asus/--spyder (abrir spyder)
  
  
         
