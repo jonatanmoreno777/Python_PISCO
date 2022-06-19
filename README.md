@@ -10,8 +10,8 @@ Crear proyecto personal con **conda-forge**:
     
 * Paso 2: crear **IDE**
     * conda create -n pyaos-lesson spyder (**IDE** preferido : spyder, jupyter notebook, etc)
-        * conda activate pyaos-lesson(entrar)
-        * conda deactivate pyaos-lesson(salir)
+        * conda activate pyaos-lesson (entrar)
+        * conda deactivate pyaos-lesson (salir)
  
  * Paso 3: instalar **librerias**
      * (entrar)....del paso 2
