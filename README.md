@@ -5,8 +5,9 @@ Análisis de la data PISCO-SENAMHI
 <!-- conda-forge-->
 Crear proyecto personal con **conda-forge**:
 <!-- UL -->
-* Paso 1: crear **conda-forge**<!-- UL -->
-    *conda config --add channels conda-forge
+* Paso 1: crear **conda-forge**
+* <!-- UL -->
+*conda config --add channels conda-forge
     
 * Paso 2: crear **IDE**<!-- UL -->
     *conda create -n pyaos-lesson spyder (**IDE** preferido : spyder, jupyter notebook, etc)
