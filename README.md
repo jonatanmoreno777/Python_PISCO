@@ -18,7 +18,7 @@ Crear proyecto personal con **conda-forge**:
      * (pyaos-lesson)c:/asus/..**conda install** **"libreria"** o **pip install** **"libreria"** (ingresar librerias: xarray, cartopy, etc)
      * (pyaos-lesson)c:/asus/--spyder (abrir spyder)
  
-
+![SEASON](https://user-images.githubusercontent.com/107366367/185727835-f15c7e32-ce3d-4200-bcda-1f10734caccd.png)
 ![PISCO](https://user-images.githubusercontent.com/107366367/185726466-7a133857-3dd6-4f6a-8a5e-a72620f7408e.png)
 ![RAIN4PE](https://user-images.githubusercontent.com/107366367/185726469-0505189a-6630-4943-972a-2f87eb18f847.png)
 
