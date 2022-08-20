@@ -1,5 +1,5 @@
 # Python_PISCO - RAIN4PE
-Analysis of the PISCO-SENAMHI data and the RAIN4PE gridded product
+Analysis of the gridded products (0.1°) PISCO-SENAMHI and RAIN4PE for hydrographic basin studies
 <!-- Downsloads -->
 **Downsloads** **PISCO-SENAMHI** del siguiente enlace: https://iridl.ldeo.columbia.edu/SOURCES/.SENAMHI/overview.html?fbclid=
 <!-- conda-forge-->
