@@ -1,9 +1,9 @@
 # Python_PISCO - RAIN4PE
 Analysis of the gridded products (0.1°) PISCO-SENAMHI and RAIN4PE for hydrographic basin studies
-<!-- Downsloads -->
-**Downsloads** **PISCO-SENAMHI** del siguiente enlace: https://iridl.ldeo.columbia.edu/SOURCES/.SENAMHI/overview.html?fbclid=
+<!-- PISCO-SENAMHI -->
+**PISCO-SENAMHI** del siguiente enlace: https://iridl.ldeo.columbia.edu/SOURCES/.SENAMHI/overview.html?fbclid=
 <!-- RAIN4PE-->
-**RAIN4PE** del siguiente enlace: (https://doi.org/10.5880/pik.2020.010)
+**RAIN4PE** del siguiente enlace: (https://datapub.gfz-potsdam.de/download/10.5880.PIK.2020.010enouiv/)
 <!-- conda-forge-->
 Crear proyecto personal con **conda-forge**:
 <!-- UL -->
