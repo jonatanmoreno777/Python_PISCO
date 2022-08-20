@@ -2,7 +2,7 @@
 Analysis of the gridded products (0.1°) PISCO-SENAMHI and RAIN4PE for hydrographic basin studies
 <!-- Downsloads -->
 **Downsloads** **PISCO-SENAMHI** del siguiente enlace: https://iridl.ldeo.columbia.edu/SOURCES/.SENAMHI/overview.html?fbclid=
-**Downsloads** **RAIN4PE** del siguiente enlace: (https://doi.org/10.5880/pik.2020.010)
+**RAIN4PE** del siguiente enlace: (https://doi.org/10.5880/pik.2020.010)
 <!-- conda-forge-->
 Crear proyecto personal con **conda-forge**:
 <!-- UL -->
