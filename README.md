@@ -24,5 +24,5 @@ Crear proyecto personal con **conda-forge**:
 ![PISCO](https://user-images.githubusercontent.com/107366367/185726466-7a133857-3dd6-4f6a-8a5e-a72620f7408e.png)
 ![RAIN4PE](https://user-images.githubusercontent.com/107366367/185726469-0505189a-6630-4943-972a-2f87eb18f847.png)
 
-![RAIN4PE_30](https://user-images.githubusercontent.com/107366367/185727300-9e94a773-81be-4541-93f4-3d90d39eff70.gif)
+  ![RAIN4PE_30](https://user-images.githubusercontent.com/107366367/185727300-9e94a773-81be-4541-93f4-3d90d39eff70.gif)
 
